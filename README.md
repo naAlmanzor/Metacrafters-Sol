@@ -1,41 +1,31 @@
-# Project Title
+# Metacrafters-Sol
 
-Simple overview of use/purpose.
+A simple demonstration of the solidity assessment for Metacrafters.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The project is a simple program that allows users to simulate how the ethereum works with minting and burning. The project also demonstrates simple conditional statemates for the program. This project is in connection with the Metacrafterds assessment involving the Solidity course.
 
 ## Getting Started
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Copy the code from the token.sol file 
+* Emter this link: https://remix.ethereum.org.
+* Paste the code snippet on said link and make sure to create a new file in it.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Go to the "Deploy and Run Transactions" tab
+* Click the "Deploy" button within the tab
+* If there is a green check mark in the console, the deployment is successful
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+- Issues with deployment-
+* If there is an issue with deployment, check first in the "Solodity Compiler" tab if the token was compiled
+* Should the compilation be unsuccessful or not yet made, click the "Copile" button on this tab
 
-## Authors
+## Author
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Neil Angelo L. Almanzor
