@@ -22,7 +22,7 @@ The project is a simple program that allows users to simulate how the ethereum w
 
 ## Help
 
-- Issues with deployment-
+Issues with deployment
 * If there is an issue with deployment, check first in the "Solodity Compiler" tab if the token was compiled
 * Should the compilation be unsuccessful or not yet made, click the "Copile" button on this tab
 
